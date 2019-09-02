@@ -135,8 +135,8 @@ mda = {
             // append it to the body, so it will come from the right side of the screen
             $('body').append($navbar);
             $toggle = $('.navbar-toggle');
-            $navbar.find('a').removeClass('btn btn-round btn-default');
-            $navbar.find('button').removeClass('btn-round btn-fill btn-info btn-primary btn-success btn-danger btn-warning btn-neutral');
+            $navbar.find('a').removeClass('btn  btn-default');
+            $navbar.find('button').removeClass(' btn-fill btn-info btn-primary btn-success btn-danger btn-warning btn-neutral');
             $navbar.find('button').addClass('btn-simple btn-block');
 
             $toggle.click(function (){

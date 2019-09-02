@@ -8471,7 +8471,7 @@ button:focus {
     overflow: hidden;
     position: relative;
     line-height: 41px; }
-    .btn.btn-fab.btn-round, .btn.btn-just-icon.btn-round {
+    .btn.btn-fab.btn-round, .btn.btn-just-icon. {
       border-radius: 50%; }
     .btn-group-sm .btn.btn-fab, .btn.btn-fab.btn-sm, .btn-group-sm > .btn.btn-fab, .btn.btn-fab.btn-fab-mini, .btn-group-sm .btn.btn-just-icon, .btn.btn-just-icon.btn-sm, .btn-group-sm > .btn.btn-just-icon, .btn.btn-just-icon.btn-fab-mini {
       height: 30px;
@@ -10961,7 +10961,7 @@ textarea {
   width: 20%;
   margin: 9px 0 0; }
 
-.form-file-upload .input-group-btn:last-child > .btn-round {
+.form-file-upload .input-group-btn:last-child > . {
   border-radius: 30px; }
 
 .form-file-upload .input-group-btn .btn {
